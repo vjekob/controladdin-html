@@ -2,7 +2,6 @@ controladdin "Demo Control"
 {
     Scripts = 
         'https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.0.min.js',
-        'Demo/Scripts/PreserveJQuery.js',
         'Demo/Scripts/DestroyJQuery.js',
         'Demo/Scripts/Content.js';
 
