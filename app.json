@@ -1,0 +1,23 @@
+{
+  "id": "865825ff-bb94-477f-b6a8-4cbd58e3a770",
+  "name": "Control Add-in Image Demo",
+  "publisher": "Vjeko.com",
+  "brief": "",
+  "description": "This extension showcases how to (ab)use the controladdin Images property to show HTML inside control add-ins",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "Logo.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0"
+}

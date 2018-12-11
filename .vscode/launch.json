@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Your own server",
+            "server": "http://desktop-tfdoknj",
+            "serverInstance": "DynamicsNAV110",
+            "authentication": "Windows",
+            "startupObjectId": 21
+        }
+    ]
+}

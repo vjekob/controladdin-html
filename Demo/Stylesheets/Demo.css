@@ -1,0 +1,12 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #269;
+    color: white;
+}
+
+div#controlAddIn {
+    padding: 1em;
+}
