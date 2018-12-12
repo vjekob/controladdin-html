@@ -6,7 +6,8 @@ controladdin "Demo Control"
 
     Images = 
         'Demo/Images/accept.png',
-        'Demo/Images/reject.png';
+        'Demo/Images/reject.png',
+        'Demo/Html/Control.html';
 
     StyleSheets = 'Demo/Stylesheets/Demo.css';
 
