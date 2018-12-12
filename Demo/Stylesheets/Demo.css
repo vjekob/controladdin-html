@@ -10,3 +10,12 @@ body {
 div#controlAddIn {
     padding: 1em;
 }
+
+#controlAddIn img {
+    opacity: 0.5;
+    transition: all 150ms ease-in-out;
+}
+#controlAddIn  img:hover {
+    opacity: 1;
+    cursor: default;
+}

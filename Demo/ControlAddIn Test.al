@@ -4,7 +4,9 @@ controladdin "Demo Control"
         'https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.0.min.js',
         'Demo/Scripts/Content.js';
 
-    Images = 'Demo/Html/Control.html';
+    Images = 
+        'Demo/Images/accept.png',
+        'Demo/Images/reject.png';
 
     StyleSheets = 'Demo/Stylesheets/Demo.css';
 

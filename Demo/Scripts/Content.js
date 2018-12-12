@@ -1,6 +1,16 @@
 (function ($) {
     $(document).ready(function () {
-        var url = Microsoft.Dynamics.NAV.GetImageResource("Demo/Html/Control.html");
-        $("#controlAddIn").load(url);
+        $("#controlAddIn")
+            .append($("<div>")
+                .append($("<img>")
+                    .attr("src", Microsoft.Dynamics.NAV.GetImageResource("Demo/Images/accept.png"))
+                    .click(function () {
+                        alert("Accepted");
+                    }))
+                .append($("<img>")
+                    .attr("src", Microsoft.Dynamics.NAV.GetImageResource("Demo/Images/reject.png"))
+                    .click(function () {
+                        alert("rejected");
+                    })));
     });
 })(jQuery);
